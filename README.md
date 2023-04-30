@@ -12,7 +12,7 @@ To get started with this project, you need to have .NET Core 3.1 or later instal
 Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/{username}/{repository}.git
+git clone https://github.com/Baroonn/kiptrak-aspnet-backend.git
 ```
 
 ### Prerequisites
