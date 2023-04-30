@@ -7,7 +7,7 @@ This app allows students to manage their assignments and projects. A user can al
 
 ## Getting Started
 
-To get started with this project, you need to have .NET Core 3.1 or later installed on your machine.
+To get started with this project, you need to have .NET 6 installed on your machine.
 
 Clone the repository to your local machine using the following command:
 
