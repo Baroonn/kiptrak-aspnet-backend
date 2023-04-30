@@ -49,6 +49,6 @@ Contributions are always welcome!
 
 ## Acknowledgments
 
-* [Onion Architecture] Ultimate ASP.NET Core Web API (Second Edition) by Marinko Spasojevic & Vladimir Pecanac
+* Ultimate ASP.NET Core Web API (Second Edition) by Marinko Spasojevic & Vladimir Pecanac
 * C# 10 and .NET 6 (Sixth Edition) by Mark J. Price
 * Software Architecture with C# 10 and .NET 6 (Third Edition) by Gabriel Baptista & Francesco Abbruzzese
